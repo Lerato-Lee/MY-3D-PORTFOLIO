@@ -22,7 +22,7 @@ const About = () => {
 
       <div className='flex flex-col gap-3 mt-5 text-slate-500'>
         <p>
-          Software Engineer & Tech Support Engineer based in Durban, South Africa; specializing in front-end
+          Software Developer & Tech Support Engineer based in Durban, South Africa; specializing in front-end
           development.
         </p>
       </div>
